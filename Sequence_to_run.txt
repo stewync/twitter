@@ -1,0 +1,7 @@
+1. step01_basic
+2. cleantry
+3. step2_textblob
+4. step3_stemming
+5. step3_wordcloud
+6. step4_topic_modeling_nmf
+7. step4_modeling_LDA
